@@ -27,6 +27,8 @@ print('Number of column:',len(f.axes[1]))
 ## OUTPUT:
 ![py6prog](https://github.com/BALA291/Read-from-CSV/assets/120717501/83cec347-6a15-4e39-a2bd-3324cc8d5439)
 
+![py6output](https://github.com/BALA291/Read-from-CSV/assets/120717501/38b065b2-be6d-46e7-abe7-df0cf0765a6a)
+
 
 ## RESULT:
 Thus the program is written to copy the contents from one file to another file.
